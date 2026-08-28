@@ -1,0 +1,4 @@
+# app-ads.txt — Overdirt (com.brunofar.overdirt)
+# Placeholder: a linha real entra quando a conta AdMob existir.
+# Formato exigido pelo AdMob (pub-XXXX = publisher ID da conta):
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
